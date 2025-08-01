@@ -47,3 +47,47 @@ This template is ready for Figma design integration. You can:
 4. Customize the styling to match your design system
 
 Happy designing! 🎨
+
+## 🤖 GitHub Copilot Integration
+
+This project is optimized for GitHub Copilot with custom instructions and configurations to help you build better Figma integrations faster.
+
+### Copilot Features
+
+- **Smart Code Suggestions**: Copilot understands the project's Figma-focused architecture
+- **Component Templates**: Pre-configured snippets for common Figma integration patterns
+- **Responsive Design**: Automatic suggestions for mobile-first CSS
+- **Accessibility**: Built-in recommendations for WCAG compliance
+- **Modern Standards**: ES6+ JavaScript and modern CSS features
+
+### Custom Instructions
+
+The project includes:
+- `.github/copilot-instructions.md` - Comprehensive project guidelines
+- `.copilotrc.json` - Project-specific configuration
+- `.vscode/settings.json` - VS Code and Copilot optimization
+- `.vscode/snippets.code-snippets` - Custom code snippets
+
+### Using Copilot Effectively
+
+1. **Component Creation**: Type `figma-component` for instant component templates
+2. **Styling**: Use `css-component` for complete CSS structures with responsive design
+3. **Animations**: Try `smooth-animation` for ready-to-use animation functions
+4. **Buttons**: Use `modern-button` for styled button elements
+5. **Grids**: Type `responsive-grid` for CSS Grid layouts
+
+### Copilot Prompts Examples
+
+- "Create a responsive card component for Figma integration"
+- "Add smooth hover animations to the feature cards"
+- "Generate a mobile-first navigation menu"
+- "Create an accessible image gallery placeholder"
+- "Add a contact form with modern styling"
+
+### Best Practices with Copilot
+
+- Be specific about Figma integration requirements
+- Mention responsive design needs
+- Specify accessibility requirements
+- Ask for modern CSS features (Grid, Flexbox, Custom Properties)
+- Request vanilla JavaScript solutions

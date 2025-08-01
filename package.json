@@ -1,36 +1,36 @@
 {
-  "name": "figma-integration-template",
-  "version": "1.0.0",
-  "description": "A modern, responsive web template ready for Figma design integration with HTML, CSS, and JavaScript",
-  "main": "index.html",
-  "scripts": {
-    "start": "open index.html",
-    "serve": "python3 -m http.server 8000",
-    "serve-node": "npx serve .",
-    "lint": "echo 'Linting complete'",
-    "format": "echo 'Formatting complete'"
-  },
-  "keywords": [
-    "figma",
-    "design",
-    "template",
-    "html",
-    "css",
-    "javascript",
-    "responsive",
-    "modern",
-    "web"
-  ],
-  "author": "OriMelamed",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/OriMelamed/figma-integration-template.git"
-  },
-  "bugs": {
-    "url": "https://github.com/OriMelamed/figma-integration-template/issues"
-  },
-  "homepage": "https://github.com/OriMelamed/figma-integration-template",
-  "devDependencies": {},
-  "dependencies": {}
+    "name": "figma-integration-template",
+    "version": "1.0.0",
+    "description": "A modern, responsive web template ready for Figma design integration with HTML, CSS, and JavaScript",
+    "main": "index.html",
+    "scripts": {
+        "start": "open index.html",
+        "serve": "python3 -m http.server 8000",
+        "serve-node": "npx serve .",
+        "lint": "echo 'Linting complete'",
+        "format": "echo 'Formatting complete'"
+    },
+    "keywords": [
+        "figma",
+        "design",
+        "template",
+        "html",
+        "css",
+        "javascript",
+        "responsive",
+        "modern",
+        "web"
+    ],
+    "author": "OriMelamed",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OriMelamed/figma-integration-template.git"
+    },
+    "bugs": {
+        "url": "https://github.com/OriMelamed/figma-integration-template/issues"
+    },
+    "homepage": "https://github.com/OriMelamed/figma-integration-template",
+    "devDependencies": {},
+    "dependencies": {}
 }

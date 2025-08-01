@@ -1,0 +1,53 @@
+{
+  "language": "html",
+  "framework": "vanilla",
+  "preferences": {
+    "cssFramework": "none",
+    "jsFramework": "vanilla",
+    "bundler": "none",
+    "packageManager": "npm"
+  },
+  "codeStyle": {
+    "indentation": "spaces",
+    "indentSize": 4,
+    "quotes": "double",
+    "semicolons": true,
+    "trailingCommas": true
+  },
+  "features": {
+    "responsive": true,
+    "accessibility": true,
+    "performance": true,
+    "modernCSS": true,
+    "es6Plus": true
+  },
+  "conventions": {
+    "cssNaming": "kebab-case",
+    "jsNaming": "camelCase",
+    "componentStructure": "BEM-like",
+    "fileNaming": "kebab-case"
+  },
+  "priorities": [
+    "figma-integration",
+    "responsive-design",
+    "accessibility",
+    "performance",
+    "maintainability"
+  ],
+  "avoid": [
+    "jquery",
+    "bootstrap",
+    "external-dependencies",
+    "inline-styles",
+    "important-overrides",
+    "browser-specific-prefixes"
+  ],
+  "encourage": [
+    "semantic-html",
+    "css-grid",
+    "flexbox",
+    "css-custom-properties",
+    "modern-javascript",
+    "smooth-animations"
+  ]
+}
